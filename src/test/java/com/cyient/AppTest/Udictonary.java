@@ -63,6 +63,7 @@ public class Udictonary {
 		
 		driver.findElementByAndroidUIAutomator("UiSelector().text(\"Join\")").click();
 		
+	
 		
 		
 		
